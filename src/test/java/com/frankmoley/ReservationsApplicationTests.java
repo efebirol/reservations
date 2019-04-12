@@ -1,4 +1,4 @@
-package com.example.reservations;
+package com.frankmoley;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
